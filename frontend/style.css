@@ -44,8 +44,8 @@
       /* position: absolute; */
       display: flex;
       flex-direction: row;
-      align-items: center;
-      /* align-content: space-around; */
+      /* align-items: center; */
+      /* align-content: space-around */
       padding: 27px;
       gap: 62px;
       /* row-gap: 62px; */
@@ -54,14 +54,14 @@
     #container div {
         width: 290px;
         height: 416px;
+        margin: auto;
         /* align-self: center; */
-        top: 50%;
-        left: 50%;
+        margin-top: 8%;
+        /* left: 50%; */
         /* transform: translate(-50%); */
         padding-top: 20px;
-        padding-left: 30px;
+        padding-left: 30px; 
         background-color: #fff;
-      /* line-height: 40px; */   
   }
 
   div .name {
