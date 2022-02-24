@@ -56,10 +56,11 @@
         height: 416px;
         margin: auto;
         /* align-self: center; */
-        margin-top: 8%;
-        /* left: 50%; */
-        /* transform: translate(-50%); */
-        padding-top: 20px;
+        margin-top: 8%; 
+/*      left: 50%;
+        top: 50%;
+        transform: translate(-50% -50%); 
+ */     padding-top: 20px;
         padding-left: 30px; 
         background-color: #fff;
   }
